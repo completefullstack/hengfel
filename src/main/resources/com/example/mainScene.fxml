@@ -17,11 +17,11 @@
       <Label layoutX="69.0" layoutY="112.0" text="Sugár" />
       <Label layoutX="69.0" layoutY="165.0" text="Hosszúság" />
       <Label layoutX="69.0" layoutY="268.0" text="A henger felszine" />
-      <Label layoutX="420.0" layoutY="346.0" prefHeight="25.0" prefWidth="143.0" text="Siegenthale Alexandra II-E 2026-03-21" />
-      <TextField fx:id="sugarField" layoutX="130.0" layoutY="108.0" />
-      <TextField fx:id="magassagField" layoutX="130.0" layoutY="161.0" />
-      <TextField fx:id="areaField" layoutX="183.0" layoutY="264.0" />
-      <Button layoutX="177.0" layoutY="216.0" mnemonicParsing="false" onAction="#onClickCalcButton" text="Számol" />
+      <Label layoutX="420.0" layoutY="350.0" prefHeight="25.0" prefWidth="240.0" text="Siegenthale Alexandra II-E 2026-03-31" />
+      <TextField fx:id="sugarField" layoutX="185.0" layoutY="108.0" />
+      <TextField fx:id="magassagField" layoutX="185.0" layoutY="161.0" />
+      <TextField fx:id="areaField" layoutX="185.0" layoutY="264.0" />
+      <Button layoutX="240.0" layoutY="216.0" mnemonicParsing="false" onAction="#onClickCalcButton" text="Számol" />
       <Label layoutX="61.0" layoutY="312.0" text="*A számol gomb az eredményt elmenti a teruletek.txt file-ba" textFill="#f7380f" />
    </children>
 </Pane>

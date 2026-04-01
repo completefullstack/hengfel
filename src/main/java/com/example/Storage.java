@@ -1,6 +1,6 @@
 /*
 * File: Storage.java
-* Author: Siegenthaler
+* Author: Siegenthaler Alexandra
 * Copyright: 2026, Siegenthaler Alexandra
 * Group: Szoft II-E
 * Date: 2026-03-31
